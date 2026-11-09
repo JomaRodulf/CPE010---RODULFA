@@ -7,4 +7,5 @@ Prelims
 Midterms  
 Finals  
 # Navigation  
-### Check the branches of this repository for the different sections
+### Check the branches of this repository for the different sections  
+### You may also check the subfolders within this main branch for the ZIP files
